@@ -41,7 +41,7 @@ PermutationTest(Dfull, Dsubsets, num.per, num.chips, alpha)
 
 \author{ Brian Steinmeyer }
 
-\warning{ (p x n) data matrix should be numeric (e.g. gene-expression levels) }
+\section{Warning}{ (p x n) data matrix should be numeric (e.g. gene-expression levels) }
 
 \seealso{ 'GetClusters' 'DistMatrices' 'MantelCorrs' }
 

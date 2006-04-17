@@ -34,7 +34,7 @@ MantelCorrs(Dfull, Dsubsets)
 
 \seealso{ 'GetClusters' 'DistMatrices' 'kmeans' }
 
-\Warning{ The function is meant to be executed AFTER 'GetClustes' and 'DistMatrices' (see example) }
+\section{Warning}{ The function is meant to be executed AFTER 'GetClustes' and 'DistMatrices' (see example) }
 
 \examples{
 %\dontrun{

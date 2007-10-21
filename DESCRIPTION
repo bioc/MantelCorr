@@ -7,5 +7,5 @@ Description: Computes Mantel cluster correlations from a (p x n) numeric
              data matrix (e.g. microarray gene-expression data).
 Maintainer: Brian Steinmeyer <steinmeb@ilya.wustl.edu>
 Depends: R (>= 2.0.0)
-License: GPL version 2 or newer?
+License: GPL (>=2)
 biocViews: Statistics, Clustering

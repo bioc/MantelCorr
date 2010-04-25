@@ -1,0 +1,4 @@
+importFrom(stats, as.dist, cor, dist, kmeans, quantile)
+
+export(ClusterGeneList, ClusterList, DistMatrices, GetClusters, MantelCorrs,
+       PermutationTest)
